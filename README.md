@@ -1,2 +1,7 @@
-# Qebridiki_Tor_Betler
-Taqiwitilgen we taqitiwitilgen Uyghurche tor betlirining uchurliri. Schundaqla bir qisim eslige keltürülgen tor ning uchurliri retlep chiqildi. 
+# Qebridiki Uyghur'che Tor Betler we hazirghiche Tirilgen Tor betler # قەبرەدىكى ئۇيغۇرچە تور بەتلەر ۋە ھازىرغىچە تىرىلگەن تور بەتلەر
+
+## [Tirilgen tor betler](./Tirilgen_Tor_Betler.md)<br>
+## [Retlewatqan tor betler](./Retlewatqan.md)<br>
+## [Qebridiki barliq tor betler](./Hemmisi.md)<br>
+
+
