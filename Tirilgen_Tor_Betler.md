@@ -1,4 +1,6 @@
 # Tirilgen Tor Betler 
+
+## Eslige keltürülgen tor betlerning hemmisi [ئۇيغۇر-ئارخىپى Uyghur-Archive](https://www.uyghur-archive.com/) degen tor betke qoyuldi.<br>
 |Index|                                                                                 URL_ulanghan_ter_bet                                                                                |                                                             tor_bet_ismi                                                            |                           URL                           |
 |-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
 |  0  |                                                   [ئەجرىم لايىھە بلوگى(www.ejrim.com)](https://www.uyghur-archive.com/ejrim.html)                                                   |                                                  ئەجرىم لايىھە بلوگى(www.ejrim.com)                                                 |        https://www.uyghur-archive.com/ejrim.html        |
